@@ -57,7 +57,7 @@
     "form-urlencoded": "4.1.4",
     "glob": "7.1.6",
     "history": "4.10.1",
-    "i18n-iso-countries": "4.3.1",
+    "i18n-iso-countries": "6.2.2",
     "jwt-decode": "2.2.0",
     "localforage": "^1.9.0",
     "localforage-memoryStorageDriver": "^0.9.2",
